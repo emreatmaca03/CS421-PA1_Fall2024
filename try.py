@@ -1,1 +1,2 @@
-print('Hello from the new branch!')
+print("EMRE ATMACA")
+print("ilkoşumu çok seviyorum")
